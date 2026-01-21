@@ -2,7 +2,6 @@
 <h3 align="center">A passionate web developer from Viet Nam</h3>
 
 <h3 align="left">Connect with me by email: nguyenquocviet0706@gmail.com</h3>
-<h3 align="left">Phone number: 0987515694</h3>
 <p align="left">
 </p>
 
